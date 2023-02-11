@@ -9,7 +9,7 @@
     padding: 0px;
     background: url(images/tim.png) no-repeat 10px center;
     display: block;
-    border-bottom: 1px dotted orangered;
+    border-bottom: 1px dotted rgb(231, 135, 1);
     color: orangered;
     font-variant: small-caps;
     font-size: larger;

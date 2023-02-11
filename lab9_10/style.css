@@ -1,0 +1,139 @@
+
+body{
+    background: #e8eef3;
+}
+
+
+.section-form{
+    background: #fff;
+    width: 100%;
+    max-width: 432px;
+    margin: 55px auto;
+    border-radius: 0 0 8px 8px;
+}
+
+.section-form .wrap{
+    position: relative;
+}
+
+.section-form .wrap .form .icon{
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.section-form .wrap .form .icon img{
+    max-width: 31px;
+}
+
+
+.section-form .wrap .form .form-item-top{
+    padding: 20px 15px 0;
+    border-bottom: 1px solid #333333;
+}
+
+.section-form .wrap .form .form-item-top .title{
+    color: #1c1e21;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.section-form .wrap .form .form-item-top .sub-title{
+    color: #606770;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.section-form .wrap .list-form-group .input{
+    background: #f5f6f7;
+}
+
+.section-form .wrap .list-form-group{
+   padding: 20px 15px;
+   border-radius: 0 0 8px 8px;
+}
+
+.section-form .list-form-group .title-hpbd{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.section-form .list-form-group .icon-hpbd{
+    background-image: url(./images/list-ion.png);
+    background-size: 24px 80px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-position: 0 -66px;
+}
+
+.section-form .list-form-group .item-sex {
+    display: block;
+    background-color: #fff;
+    border: 1px solid #ccd0d5;
+    box-sizing: border-box;
+    flex: 1 0 auto;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section-form .list-form-group .item-sex label{
+    margin-bottom: 0;
+}
+
+.section-form .list-form-group .item-sex.one{
+    width: 100%;
+    max-width: 105px;
+}
+
+.section-form .list-form-group .item-sex.two{
+    width: 100%;
+    max-width: 117px;
+}
+
+.section-form .list-form-group .item-sex.three{
+    width: 100%;
+    max-width: 149px;
+}
+
+.section-form .list-form-group .list-desc .desc{
+    font-size: 11px;
+}
+
+
+.section-form .list-form-group .center{
+    display: flex;
+    justify-content: center;
+}
+
+.section-form .list-form-group .btn{
+    background-color: #00a400;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    width: 100%;
+    max-width: 194px;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+}
+
+.section-form .list-form-group .btn:hover{
+    background: linear-gradient(#79bc64, #578843);
+}
+
+
+
+
+
+    
+
+
+  

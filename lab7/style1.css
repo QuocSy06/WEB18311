@@ -1,40 +1,43 @@
 .col-25{
- width:25%;
- float:left;
+    width: 24%;
+    float: left;
+    margin: 2px 2px;
+   
 }
- .prod{
- border-radius:10px;
- box-shadow:0px 0px 5px gray;
- margin:5px;
- padding:5px;
- text-align:center;
- position:relative;
+.prod{
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px gray;
+    text-align: center;
+    padding: 5px;
+    position: relative;
 }
- .prod>.name{
- font-variant:small-caps;
- color:orangered;
- }
- .prod>.image{
- max-width:98%;
-height:150px;
- margin-bottom:10px;
- }
- .prod>.price{
- position:absolute;
- left:5px;
- bottom:5px;
- font-family:Impact;
- font-size:25px;
- color:orange;
- }
- .prod>.icons{
- position:absolute;
- right:5px;
- bottom:5px;
- width:25px;
- }
- .prod>.new-icon{
- position:absolute;
- top:0px;
- right:0px;
- }
+.prod .name{
+    font-variant: small-caps;
+    color: orangered;
+}
+.prod>image{
+    max-width: 98%;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.prod>.price{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-size: 15px;
+    color: orangered;   
+    font-family: impact;
+}.prod>.icons{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 25px;
+}
+.prod>.new-icon{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.prod>.new-icon>img{
+    border-top-right-radius: 10px;
+}
