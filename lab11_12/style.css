@@ -1,0 +1,31 @@
+.wrapper{
+    display: flex;
+    flex-direction:  column;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 20px;
+    align-items: center;
+}.header-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}.header-left h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+}
+.header-left span{
+    color: rgb(100, 97, 97);
+    font-weight: 600;
+    font-size: small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
