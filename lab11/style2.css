@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border-color: rgb(108, 108, 207);
+}
+th{
+    background-color: rgb(31, 31, 249);
+    color: white;
+    
+}td{
+    height:  30px;
+}
+tr:nth-child(2n+1){
+    background: gainsboro;
+}

@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    border-color: yellowgreen;
+    text-align: center;
+}
+.title1{
+    background-color: green;
+    color: white;
+}
+.title2{
+    background-color: #e8fcca;
+}.row-1{
+    color: red;
+}
